@@ -20,7 +20,7 @@ Project.
 <img src="https://i.ibb.co/zFwRRfY/xplore2.png" alt="xplore2" border="0"><span>  -  </span>
 <img src="https://i.ibb.co/pWrFNwC/xplore3.png" alt="xplore3" border="0"><span>  -  </span>
 <img src="https://i.ibb.co/m4q3t5C/xplore4.png" alt="xplore4" border="0"><span>  -  </span>
-<img src="https://i.ibb.co/TTmPjdQ/xplore5.png" alt="xplore5" border="0"><span>  -  </span>
+<img src="https://i.ibb.co/TTmPjdQ/xplore5.png" alt="xplore5" border="0"><span>    </span>
  </p>
  
 
